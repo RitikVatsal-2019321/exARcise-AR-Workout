@@ -1,6 +1,9 @@
 # exARcise-AR-Workout
 exARcise- An AR Workout App For Windows/ Android/ iOS
 
+![exARcise-HomeScreen](https://user-images.githubusercontent.com/58371368/120102370-3ed77800-c168-11eb-9317-3463f3451fa2.jpg)
+
+
 exARcise is a physical workout game that helps you exercise in a fun and enjoyable way. The app tracks your body and guides you to move your arms to certain marked regions, and gives points based on how long you are able to hold that pose. There are bonus points if you manage to hold both your arms in the required position.
 
 --- Technical Details ---
