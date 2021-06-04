@@ -21,6 +21,8 @@ Android APK - https://drive.google.com/file/d/16dWz0HruoWF0Eb2O4TVRwOC8OQGs17wT/
 
 Unity Project - https://drive.google.com/file/d/1CpovYdmgsF54cLxVeZUB6U0mtxxRs55e/view?usp=sharing
 
+Demo Video - https://youtu.be/fYVDa_kyzvg
+
 --- Testing ---
 
 This is a resource heavy application and thus requires competent hardware to function to it's full potential. I have tested it on the following devices-
